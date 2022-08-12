@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Natural Pack 1",
+    "price": "0.2",
+    "description": "Get this box for $0.2 and you will get a vivid natural photo!",
+    "image_url": "https://media.giphy.com/media/1KQ9FuF33SEKLXicaK/giphy.gif",
+    "filename": "Pack-1",
+    "hash": "QmcnKE9uXNYh5yy4QovtJAhgqfkeTvY9xFPwfciVWjJ7Gk"
+  },
+  {
+    "id": 2,
+    "name": "Natural Pack 2",
+    "price": "0.2",
+    "description": "Get this box for $0.2 and you will get a vivid natural photo!",
+    "image_url": "https://media.giphy.com/media/1KQ9FuF33SEKLXicaK/giphy.gif",
+    "filename": "Pack-2",
+    "hash": "QmaUZafFezsGhDXkqcb7FzCQqauyDrLmjRmqv4zEyiRJsW"
+  },
+  {
+    "id": 3,
+    "name": "Natural Pack 3",
+    "price": "0.2",
+    "description": "Get this box for $0.2 and you will get a vivid natural photo!",
+    "image_url": "https://media.giphy.com/media/1KQ9FuF33SEKLXicaK/giphy.gif",
+    "filename": "Pack-3",
+    "hash": "QmR545ToheiM3rjKGP3npaEV74mEf4uh5fNqJtyzhSUfUr"
+  }
+]
